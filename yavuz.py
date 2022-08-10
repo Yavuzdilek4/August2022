@@ -1,3 +1,3 @@
-imort files
-exit 
+import files
+entry 
 2586
