@@ -1,3 +1,3 @@
-imort files
-exit 
+export files
+input 
 2586
